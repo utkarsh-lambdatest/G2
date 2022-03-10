@@ -20,6 +20,7 @@ preMerge:
     - "**/*-spec.ts"
 
 config: package.json
+
 # configure whether to smartSelect test-cases. Default true
 smartRun: true
 
